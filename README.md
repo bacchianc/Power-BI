@@ -8,8 +8,9 @@ Sample Superstore Analysis: An analysis of sales and profit data for a fictional
 Clone the repository to your local machine using git clone https://github.com/bacchianc/Power-BI.
 Open the repository in Power BI Desktop.
 Explore the projects and practices to learn more about data analysis and visualization using Power BI.
-**Contributing**
 
+
+**Contributing**
 Contributions are welcome. If you have a project or practice you'd like to add to this repository, please create a pull request with the following information:
 Project Name: The name of the project.
 Description: A brief description of the project.
