@@ -1,5 +1,6 @@
 **PowerBI Repository**
 This repository contains various Power BI projects and practices for data analysis and visualization.
+
 **The projects include:**
 Sample Superstore Analysis: An analysis of sales and profit data for a fictional retail company using the Sample Superstore dataset.
 
