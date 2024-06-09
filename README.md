@@ -11,6 +11,7 @@ Explore the projects and practices to learn more about data analysis and visuali
 
 
 **Contributing**
+
 Contributions are welcome. If you have a project or practice you'd like to add to this repository, please create a pull request with the following information:
 Project Name: The name of the project.
 Description: A brief description of the project.
